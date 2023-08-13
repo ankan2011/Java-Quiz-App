@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Java Quiz</string>
+
+    <string name="score">Score 0/8</string>
+    <string name="question_number">1/8 Question</string>
+
+    <string name="question_1">Which of the following is not a java keyword?</string>
+    <string name="question1_A">static</string>
+    <string name="question1_B">try</string>
+    <string name="question1_C">integer</string>
+    <string name="question1_D">new</string>
+    <string name="answer_1">integer</string>
+
+
+    <string name="question_2">Which computer language is the most widely used?</string>
+    <string name="question_2A">C#</string>
+    <string name="question_2B">Swift</string>
+    <string name="question_2C">PHP</string>
+    <string name="question_2D">Java</string>
+    <string name="answer_2">Java</string>
+
+
+    <string name="question_3"> What is the size of char variable?</string>
+    <string name="question_3A">8 bit</string>
+    <string name="question_3B">16 bit</string>
+    <string name="question_3C">32 bit</string>
+    <string name="question_3D">64 bit</string>
+    <string name="answer_3">16 bit</string>
+
+    <string name="question_4">Which of the following is a marker interface?</string>
+    <string name="question_4A">serializable</string>
+    <string name="question_4B">comparable</string>
+    <string name="question_4C">cloneable</string>
+    <string name="question_4D">none of above</string>
+    <string name="answer_4">serializable</string>
+
+    <string name="question_5">Who invented java Program?</string>
+    <string name="question_5A">Guido van Rossum</string>
+    <string name="question_5B">James Gosling</string>
+    <string name="question_5C">Dennis Ritchie</string>
+    <string name="question_5D">Bjarne Stroustrup</string>
+    <string name="answer_5">James Gosling</string>
+
+    <string name="question_6">Which component is compile,debug and execute the java program?</string>
+    <string name="question_6A">JRE</string>
+    <string name="question_6B">JIT</string>
+    <string name="question_6C">JDK</string>
+    <string name="question_6D">JVM</string>
+    <string name="answer_6">JDK</string>
+
+    <string name="question_7">What is the extension of java code files?</string>
+    <string name="question_7A">.js</string>
+    <string name="question_7B">.txt</string>
+    <string name="question_7C">.class</string>
+    <string name="question_7D">.java</string>
+    <string name="answer_7">.java</string>
+
+    <string name="question_8">Which of these are selection statements in java?</string>
+    <string name="question_8A">break</string>
+    <string name="question_8B">continue</string>
+    <string name="question_8C">for()</string>
+    <string name="question_8D">if()</string>
+    <string name="answer_8">if()</string>
+    <string name="selctedoption">SelctedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+
+</resources>
